@@ -22,10 +22,10 @@ const Login = () => {
                             <p class="text-muted mb-4">Para poder continuar debes de iniciar sesión.</p>
                             <form>
                                 <div class="form-group mb-3">
-                                    <input id="inputEmail" type="email" placeholder="Email address" required="" autofocus="" class="form-control rounded-pill border-0 shadow-sm px-4"/>
+                                    <input id="inputEmail" type="email" placeholder="Correo electrónico" required="" autofocus="" class="form-control rounded-pill border-0 shadow-sm px-4"/>
                                 </div>
                                 <div class="form-group mb-3">
-                                    <input id="inputPassword" type="password" placeholder="Password" required="" class="form-control rounded-pill border-0 shadow-sm px-4 text-primary"/>
+                                    <input id="inputPassword" type="password" placeholder="Contraseña" required="" class="form-control rounded-pill border-0 shadow-sm px-4 text-primary"/>
                                 </div>
                                 <div class="custom-control custom-checkbox mb-3">
                                     <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault"/>

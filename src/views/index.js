@@ -38,7 +38,7 @@ const Index = () => {
           </div>
         </div>
 
-        <button className="btn btn-outline-success w-25" type="submit">Obtener una cuenta</button>
+        <Link className="btn btn-outline-success w-25" to={"/registrar"}>Obtener una cuenta</Link>
       </nav>
 
       <ul className="nav justify-content-end">
